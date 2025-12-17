@@ -1,3 +1,4 @@
+package campus;
 public class Person {
 
     String id;
