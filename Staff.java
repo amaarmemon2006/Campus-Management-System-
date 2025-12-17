@@ -1,3 +1,4 @@
+package campus;
 public class Staff extends Person {
 
     String department;
